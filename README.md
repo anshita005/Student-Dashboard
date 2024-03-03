@@ -6,7 +6,7 @@ The Feathers Attendance Notification System is designed to provide a comprehensi
 # Features
 1.Attendance Management:
 
-2. Track and manage student attendance records for various courses and classes.
+2.Track and manage student attendance records for various courses and classes.
 Record attendance using biometric systems, QR codes, or manual entry.
 Notification System:
 
@@ -14,7 +14,7 @@ Notification System:
 Notify students about upcoming classes, absentees, and low attendance warnings.
 Subject-wise Attendance:
 
-4. Organize attendance data by subject, allowing educators to analyze attendance patterns.
+4.Organize attendance data by subject, allowing educators to analyze attendance patterns.
 Generate reports and statistics on subject-wise attendance trends.
 Timetable Creation:
 
@@ -22,7 +22,7 @@ Timetable Creation:
 Include details such as class timings, subjects, instructors, and classrooms.
 Examination Scheduling:
 
-6. Plan and schedule examinations based on the class timetable and academic calendar.
+6.Plan and schedule examinations based on the class timetable and academic calendar.
 Notify students about exam dates, times, locations, and requirements.
 
 # Technologies Used
