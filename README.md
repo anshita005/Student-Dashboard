@@ -28,6 +28,8 @@ Notify students about exam dates, times, locations, and requirements.
 # Technologies Used
 
 Database: MongoDB for storing attendance records, timetables, and examination schedules.
+
 Frontend: HTML, CSS, and JavaScript for the user interface.
+
 Notification: Integration with email or SMS APIs for sending notifications.
 
